@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\bin\Debug\14–Page-Based Navigation.exe.config
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\bin\Debug\14–Page-Based Navigation.exe
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\bin\Debug\14–Page-Based Navigation.pdb
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\14–Page-Based Navigation.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\App.g.cs
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\14–Page-Based Navigation_MarkupCompile.cache
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\14–Page-Based Navigation_MarkupCompile.lref
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\14–Page-Based Navigation.g.resources
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\_14_Page_Based_Navigation.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\14–Page-Based Navigation.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\14–Page-Based Navigation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\14–Page-Based Navigation.exe
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\14–Page-Based Navigation.pdb
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\Page1.g.cs
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\14–Page-Based Navigation\obj\Debug\Page1.baml

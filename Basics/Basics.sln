@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Commands", "11-Commands\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12–Markup and Code Behind", "12–Markup and Code Behind\12–Markup and Code Behind.csproj", "{B788C999-A20A-4BE1-8A41-57450520F4DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14–Page-Based Navigation", "14–Page-Based Navigation\14–Page-Based Navigation.csproj", "{B3F18F03-6DEC-403C-958B-2C68DC06B75C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B788C999-A20A-4BE1-8A41-57450520F4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B788C999-A20A-4BE1-8A41-57450520F4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B788C999-A20A-4BE1-8A41-57450520F4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F18F03-6DEC-403C-958B-2C68DC06B75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F18F03-6DEC-403C-958B-2C68DC06B75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F18F03-6DEC-403C-958B-2C68DC06B75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F18F03-6DEC-403C-958B-2C68DC06B75C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
