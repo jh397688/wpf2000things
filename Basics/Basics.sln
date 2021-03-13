@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Rendering Tiers", "2-Rend
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Style", "9-Style\9-Style.csproj", "{4D44F9B6-661E-4B5E-BE2F-6BE324BCA5FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10–Control Templates", "10–Control Templates\10–Control Templates.csproj", "{D3944DCC-CA2E-4E6A-9915-CE46530F7F3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D44F9B6-661E-4B5E-BE2F-6BE324BCA5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D44F9B6-661E-4B5E-BE2F-6BE324BCA5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D44F9B6-661E-4B5E-BE2F-6BE324BCA5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3944DCC-CA2E-4E6A-9915-CE46530F7F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3944DCC-CA2E-4E6A-9915-CE46530F7F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3944DCC-CA2E-4E6A-9915-CE46530F7F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3944DCC-CA2E-4E6A-9915-CE46530F7F3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
