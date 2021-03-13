@@ -12,3 +12,4 @@ C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\11-Commands\obj\Debug\11-Com
 C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\11-Commands\obj\Debug\11-Commands.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\11-Commands\obj\Debug\11-Commands.exe
 C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\11-Commands\obj\Debug\11-Commands.pdb
+C:\Users\ASUS\Documents\GitHub\wpf2000things\Basics\11-Commands\obj\Debug\11-Commands.csprojAssemblyReference.cache
